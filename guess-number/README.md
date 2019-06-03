@@ -7,6 +7,8 @@
 
 `"Your number was {}.".format(num)`
 
+[More info about formatting](https://pyformat.info/)
+
 **Conditionals**
 
     if TEST:
@@ -24,15 +26,31 @@
         loop code
         loop code
 
-**importing modules**
+**Importing modules**
 
     import os
     print(os.sys.version)
     
-**random numbers**
+**Random numbers**
 
 Random numbers are generated using the `randint()` method in the random module. 
 
-```
-random.randint(low, high)
-```
+    random.randint(low, high)
+    
+**For debugging**
+
+    print(guess, type(guess))
+    
+
+#### Truthiness
+
+**False:**
+ - `False`
+ - `[]`
+ - `{}`
+ - `""`
+ - `0`
+ - `0.0`
+ - `None`
+ 
+Everything else is **True**
