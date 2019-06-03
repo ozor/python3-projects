@@ -1,7 +1,7 @@
 ## "Guess a Number" Game
 
 
-#### Key concepts
+### Key concepts
 
 **String formatting**
 
