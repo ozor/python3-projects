@@ -1,6 +1,6 @@
 
 '''
-How to calculate num chars of a entered name
+  Calculate num chars of a entered name
 '''
 num_chars = len(input("What is your name?\n"))
 str_num_chars = str(num_chars)
