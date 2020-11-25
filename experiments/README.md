@@ -1,7 +1,7 @@
 ## Some various experiments
 
 
-### Num chars of a name
+#### Num chars of a name
 
 **File**: 001/num_chars.py
 
@@ -9,7 +9,7 @@
 e.g. if the input was Den, then the output should be 3
 
 
-### Sum of digits in a two digit number
+#### Sum of digits in a two digit number
 
 **File**: 001/sum_digits.py
 
