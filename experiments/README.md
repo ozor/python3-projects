@@ -23,3 +23,10 @@ e.g. if the input was 35, then the output should be 3 + 5 = 8
 
 **Description**: This is a program that calculates the Body Mass Index (BMI) from a user's weight and height. 
 BMI = weight / height ** 2
+
+
+### Life remainder Calculator
+
+**File**: 002/lifetime_left.py
+
+**Description**: This is a program that calculates how many days/weeks/monthes left in your lifetime.
