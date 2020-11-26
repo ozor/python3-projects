@@ -15,3 +15,11 @@ e.g. if the input was Den, then the output should be 3
 
 **Description**: This is a program that adds the digits in a 2 digit number, 
 e.g. if the input was 35, then the output should be 3 + 5 = 8
+
+
+### BMI Calculator
+
+**File**: 002/bmi_calculator.py
+
+**Description**: This is a program that calculates the Body Mass Index (BMI) from a user's weight and height. 
+BMI = weight / height ** 2
